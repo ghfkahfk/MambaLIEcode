@@ -25,7 +25,6 @@ Download:
 python train.py -yml_path your_config_path
 
 ### Testing
-# Tesing parameter 
 input_dir # the path of data
 result_dir # the save path of results 
 weights # the weight path of the pre-trained model
