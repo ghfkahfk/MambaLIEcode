@@ -5,8 +5,8 @@ This repo contains the code for our paper "MambaLIE: Scene Light Intensity-Boost
 ### Dependencies
 Please install following essential dependencies:
 ```
-conda create -n LLFormer python=3.7
-conda activate LLFormer
+conda create -n MambalIE python=3.7
+conda activate MambalIE
 conda install pytorch=1.8 torchvision=0.3 cudatoolkit=10.1 -c pytorch
 pip install matplotlib scikit-image opencv-python yacs joblib natsort h5py tqdm
 cd pytorch-gradual-warmup-lr; python setup.py install; cd ..
