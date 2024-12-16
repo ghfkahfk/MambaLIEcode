@@ -1,6 +1,6 @@
 # MambaLIE
 This repo contains the code for our paper "MambaLIE: Scene Light Intensity-Boosted Low-Light Image Enhancement with State Space Model''
-![image](https://github.com/shiyi0306/DGPANet/blob/main/DGPANet_framework.png?raw=true) 
+![image](https://github.com/ghfkahfk/MambaLIEcode/blob/main/MambaLIE_framenetwork.jpg?raw=true) 
 
 ### Dependencies
 Please install following essential dependencies:
