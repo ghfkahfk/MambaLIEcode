@@ -26,8 +26,11 @@ python train.py -yml_path your_config_path
 
 ### Testing
 input_dir # the path of data
+
 result_dir # the save path of results 
+
 weights # the weight path of the pre-trained model
+
 python test.py --input_dir your_data_path --result_dir your_save_path --weights weight_path
 
 
